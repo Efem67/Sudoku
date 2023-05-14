@@ -5,3 +5,5 @@ After launching the application, with the command "npm run dev", we will be aske
 Using the arrows, we can move around the fields where you need to type the numbers from the keyboard. The correct numbers will be highlighted in green. We are also able to type hints in the fields after checking the checkbox.
 
 The buttons in the upper right corner are responsible for dissolving sets and saving the game state.
+
+![level 2](https://github.com/Efem67/Sudoku/blob/master/1.png)
